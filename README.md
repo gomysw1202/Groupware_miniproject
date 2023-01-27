@@ -1,7 +1,7 @@
-# Groupware_miniproject
+# Groupware
 자바 콘솔 기반 미니 팀프로젝트 - 그룹웨어 
 
-<br><br>
+<br>
 
 ## 개발기간
 - 2022.07.27 ~ 2022.08.03 (6일)
